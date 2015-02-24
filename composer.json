@@ -1,7 +1,7 @@
 {
   "name": "serius-cms/media-bundle",
   "type": "symfony-bundle",
-  "description": "A Symfony2 bundle extending Sonata Media, providing basic media features",
+  "description": "A Symfony bundle extending Sonata Media, providing basic media features",
   "license": "MIT",
   "authors": [
     {

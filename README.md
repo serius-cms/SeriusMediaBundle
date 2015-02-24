@@ -1,5 +1,5 @@
-SeriusMediaBundle - A Symfony2 bundle providing media features for Serius CMS
-=============================================================================
+SeriusMediaBundle - A Symfony bundle providing media features for Serius CMS
+============================================================================
 
 SeriusMediaBundle extends SonataMediaBundle and provides Twig templates for 
 Serius CMS integration and basic Media entities.
