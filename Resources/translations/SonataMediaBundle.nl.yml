@@ -1,0 +1,16 @@
+
+default: Algemeen
+default_small: Klein
+default_medium: Medium
+default_big: Groot
+reference: Origineel bestand
+
+list.label_description: Omschrijving
+list.label_size: Grootte
+
+link_media: Nieuw bestand uploaden
+no_linked_media: Geen bestand geüpload
+sonata_media_gallery_index: Gallery
+sonata_template_box_media_gallery_block: This is the gallery media block. Feel free to override it.
+list.label_description: Omschrijving
+list.label_size: Grootte
